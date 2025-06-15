@@ -1,0 +1,27 @@
+{
+  "name": "my-electron-app",
+  "version": "1.0.0",
+  "description": "electron practice project",
+  "main": "src/main/main.js",
+  "type": "module",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamkramzTech/my-electron-app.git"
+  },
+  "keywords": [
+    "electron"
+  ],
+  "author": "Kramz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iamkramzTech/my-electron-app/issues"
+  },
+  "homepage": "https://github.com/iamkramzTech/my-electron-app#readme",
+  "devDependencies": {
+    "electron": "^36.4.0"
+  }
+}

@@ -1,0 +1,36 @@
+﻿Folder PATH listing for volume New Volume
+Volume serial number is B854-06A6
+my-electron-app
+│   .gitignore
+│   LICENSE
+│   package-lock.json
+│   package.json
+│   project-structure.txt
+│   README.md
+│   
+├───build
+├───node_modules
+│           
+└───src
+    ├───assets
+    │   └───css
+    │           styles.css
+    │           
+    ├───config
+    │       db.config.js
+    │       
+    ├───main
+    │       main.js
+    │       
+    ├───preload
+    │       preload.js
+    │       
+    ├───renderer
+    │   │   renderer.js
+    │   │   
+    │   └───views
+    │           welcome.html
+    │           
+    └───utils
+            logger.js
+            
