@@ -1,5 +1,4 @@
-﻿Folder PATH listing for volume New Volume
-Volume serial number is B854-06A6
+﻿
 my-electron-app
 │   .gitignore
 │   LICENSE
